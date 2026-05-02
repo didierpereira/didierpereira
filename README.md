@@ -1,5 +1,5 @@
 <!-- Banner Profesional (Crea tu banner en Canva y súbelo a assets/banner.png) -->
-<img src="assets/banner.png" style="width: 100%; margin-top: -20px;" alt="Didier Pereira - Desarrollador Frontend">
+<img src="assets/banner0.png" style="width: 100%; margin-top: -20px;" alt="Didier Pereira - Desarrollador Frontend">
 
 <h1 align="center">👋 Hola, soy Didier Pereira</h1>
 
