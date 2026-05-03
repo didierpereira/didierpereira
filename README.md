@@ -59,7 +59,7 @@ Soy un **Desarrollador Frontend** con **más de 2 años de experiencia** constru
 | Proyecto | Descripción | Stack | Enlaces |
 | :--- | :--- | :--- | :--- |
 | **🎛️ Dashboard RBAC** | Simulación de un panel de administración complejo con Control de Acceso Basado en Roles (RBAC), gráficos interactivos y tablas de datos. | `Next.js`, `TypeScript`, `Redux Toolkit`, `Recharts` | `[Repo]` `[Demo]` |
-| **💼 Portafolio 2025** | Mi sitio web personal, diseñado para ser rápido, accesible y mostrar mi trabajo de forma profesional. | `Next.js 15`, `TypeScript`, `Tailwind CSS`, `Framer Motion` | `[Repo]` `[Demo]` |
+| **💼 Portafolio 2025** | Mi sitio web personal, diseñado para ser rápido, accesible y mostrar mi trabajo de forma profesional. | `Next.js 15`, `TypeScript`, `Tailwind CSS`, `Framer Motion` | <a href="https://github.com/didierpereira/didier-portfolio">`[Repo]`</a> <a href="https://didier-portfolio.vercel.app/">`[Demo]`</a> |
 | **🛒 E-commerce Henry** | Plataforma de comercio electrónico full-stack desarrollada como proyecto final, con catálogo de productos, carrito y flujo de pago. | `React`, `Redux`, `Node.js`, `Express`, `PostgreSQL` | `[Repo]` `[Demo]` |
 
 <br/>
